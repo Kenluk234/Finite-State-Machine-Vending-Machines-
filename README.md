@@ -1,5 +1,5 @@
 The FSM I will pick is a vending machine. In which the 4 states are sold-out, idle, processing, and sold.
-![FSM-1](https://user-images.githubusercontent.com/114371901/210545128-b7312624-28fb-4b41-a1eb-e80be8564252.jpg)
+![FSM-1](https://user-images.githubusercontent.com/114371901/210545894-aaffd16e-88a7-4982-bece-36d3149981f1.jpg)
 
 As shown in the diagram, the 4 states are assigned to the following binary stateL:
 
