@@ -48,3 +48,4 @@ Here is the K-map for X1:
 
 
 Here is the K-map for X2:
+![Kmap X2-1](https://user-images.githubusercontent.com/114371901/210564364-e53c754e-b844-4cfe-8a82-410b30638117.jpg)
