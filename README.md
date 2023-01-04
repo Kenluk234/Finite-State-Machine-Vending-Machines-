@@ -43,3 +43,4 @@ The fifth column represents the output, obtained from its next states. (Labeled 
 
 Moving on to the K-map, the map will have 2 versions. One is for each output bit for X1, and the other for X2.
 
+Here is the K-map for X1:
