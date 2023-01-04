@@ -29,3 +29,10 @@ Finally, in sold out state, there are only 2 outputs:
 
 The following is the state and transition table:
 ![S T Table-1](https://user-images.githubusercontent.com/114371901/210553220-687e95e7-486f-4d7e-addc-e2625347ddc7.jpg)
+
+Based on the table above:
+The first column represents the min terms from M0 to M15.
+
+The second column represents the inputs to the FSM.
+
+The third column represents the current states of the FSM.
