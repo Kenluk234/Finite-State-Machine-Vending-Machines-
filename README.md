@@ -33,12 +33,13 @@ The following is the state and transition table:
 Based on the table above:
 The first column represents the min terms from M0 to M15.
 
-The second column represents the inputs to the FSM.
+The second column represents the inputs to the FSM, where each bit is labeled as A and B from left to right.
 
-The third column represents the current states of the FSM.
+The third column represents the current states of the FSM, in which each bit is labeled as C and D fromn left to right.
 
 The fourth column represents the next states of the FSM if the current state is given an input.
 
 The fifth column represents the output, obtained from its next states. (Labeled as X1 and X2)
 
 Moving on to the K-map, the map will have 2 versions. One is for each output bit for X1, and the other for X2.
+
