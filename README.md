@@ -46,6 +46,7 @@ Moving on to the K-map, the map will have 2 versions. One is for each output bit
 Here is the K-map for X1:
 ![Kmap X1-1 drawn](https://user-images.githubusercontent.com/114371901/210565276-a7e720a0-4bdd-48c8-b1e9-ecc529ea3c1c.jpg)
 
+The combinational boolean equation for X1 is:
 
 Here is the K-map for X2:
 ![Kmap X2-1](https://user-images.githubusercontent.com/114371901/210564364-e53c754e-b844-4cfe-8a82-410b30638117.jpg)
