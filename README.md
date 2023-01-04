@@ -16,3 +16,7 @@ While in processing state, there are 4 outputs:
 -Return to idle (00)
 -Stay in processing state (01)
 -Move to sold out (10)
+-Move to sold (11)
+
+Whereas for sold state, there are 3 outputs:
+-Return to idle (00, 01)
