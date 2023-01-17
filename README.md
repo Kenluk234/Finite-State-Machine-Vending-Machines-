@@ -51,4 +51,5 @@ The combinational boolean equation for X1 is:
 X1 = A + C
 
 Here is the K-map for X2:
-![Kmap X2-1](https://user-images.githubusercontent.com/114371901/210564364-e53c754e-b844-4cfe-8a82-410b30638117.jpg)
+![Kmap X2 Cropped   Drawn](https://user-images.githubusercontent.com/114371901/212922756-380b65e2-4df7-442b-8f5d-33841ba41ad5.jpg)
+
