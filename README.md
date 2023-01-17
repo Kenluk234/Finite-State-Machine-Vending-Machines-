@@ -45,7 +45,7 @@ The fifth column represents the output, obtained from its next states. (Labeled 
 Moving on to the K-map, the map will have 2 versions. One is for each output bit for X1, and the other for X2.
 
 Here is the K-map for X1:
-![Kmap X1-1 drawn](https://user-images.githubusercontent.com/114371901/210565276-a7e720a0-4bdd-48c8-b1e9-ecc529ea3c1c.jpg)
+![Kmap X1 Cropped](https://user-images.githubusercontent.com/114371901/212918816-a67bc196-3662-4925-926c-ba96383cf7fb.jpg)
 
 The combinational boolean equation for X1 is:
 X1 = A + C
