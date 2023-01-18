@@ -9,14 +9,14 @@ As shown in the diagram, the 4 states are assigned to the following binary state
 11: Sold Out
 
 During idle state, given 4 inputs, there are only 2 outputs, which are:
--Stay idle (00, 01, 10)
--Move to processing (11)
+-Stay idle (00, 10, 11)
+-Move to processing (01)
 
 While in processing state, there are 4 outputs:
 -Return to idle (00)
 -Stay in processing state (01)
--Move to sold out (10)
--Move to sold (11)
+-Move to sold (10)
+-Move to sold out (11)
 
 Whereas for sold state, there are 3 outputs:
 -Return to idle (00)
@@ -30,14 +30,12 @@ Finally, in sold out state, there are only 2 outputs:
 The following is the state and transition table:
 ![S T Table Cropped](https://user-images.githubusercontent.com/114371901/213169869-24e1e422-8e4d-4e99-8f9c-e32707b464b8.jpg)
 
-
-
 Based on the table above:
 The first column represents the min terms from M0 to M15.
 
-The second column represents the inputs to the FSM, where each bit is labeled as A and B from left to right.
+The second column represents the current states to the FSM, where each bit is labeled as A and B from left to right.
 
-The third column represents the current states of the FSM, in which each bit is labeled as C and D fromn left to right.
+The third column represents the inputs of the FSM, in which each bit is labeled as C and D fromn left to right.
 
 The fourth column represents the next states of the FSM if the current state is given an input.
 
