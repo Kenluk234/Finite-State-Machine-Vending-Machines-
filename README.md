@@ -33,7 +33,7 @@ The following is the state and transition table:
 Based on the table above:
 The first column represents the min terms from M0 to M15.
 
-The second column represents the current states to the FSM, where each bit is labeled as A and B from left to right.
+The second column represents the current states of the FSM, where each bit is labeled as A and B from left to right.
 
 The third column represents the inputs of the FSM, in which each bit is labeled as C and D fromn left to right.
 
