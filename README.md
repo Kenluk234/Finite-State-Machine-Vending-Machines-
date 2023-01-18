@@ -53,4 +53,6 @@ Here is the K-map for X2:
 
 ![Kmap X2 Cropped   Drawn](https://user-images.githubusercontent.com/114371901/213176919-2663415f-fd36-4472-974f-e9c575d652c7.jpg)
 
+The combinational boolean equation for X2 is:
+X2 = ABC + ACD + A'C'D + BD
 
