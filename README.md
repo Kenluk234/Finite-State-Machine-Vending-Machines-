@@ -28,7 +28,8 @@ Finally, in sold out state, there are only 2 outputs:
 -Return to idle (00)
 
 The following is the state and transition table:
-![S T Table Cropped](https://user-images.githubusercontent.com/114371901/212919647-46375742-5a6a-429e-92ce-f554029b611a.jpg)
+![S T Table Cropped](https://user-images.githubusercontent.com/114371901/213169869-24e1e422-8e4d-4e99-8f9c-e32707b464b8.jpg)
+
 
 
 Based on the table above:
