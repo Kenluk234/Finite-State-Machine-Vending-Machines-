@@ -48,7 +48,7 @@ Here is the K-map for X1:
 ![Kmap X1 Cropped   Drawn](https://user-images.githubusercontent.com/114371901/213155757-0e410d2f-4d3a-425a-b9c9-6a22d8795ac4.jpg)
 
 The combinational boolean equation for X1 is:
-X1 = A + C
+X1 = AC + AD + BC
 
 Here is the K-map for X2:
 ![Kmap X2 Cropped   Drawn](https://user-images.githubusercontent.com/114371901/212922756-380b65e2-4df7-442b-8f5d-33841ba41ad5.jpg)
