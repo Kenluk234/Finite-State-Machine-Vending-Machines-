@@ -56,3 +56,4 @@ Here is the K-map for X2:
 The combinational boolean equation for X2 is:
 X2 = ABC + ACD + A'C'D + BD
 
+I have attached the C code in the repository. When it runs, the algorithm tests each combinations of A, B, C, and D and gives an output accurate to the States and Transitions table and the Kmap.
