@@ -30,11 +30,12 @@ int main() {
         for (int D = 0; D < 2; D++) {
           int x1, x2;
           clc(A, B, C, D, &x1, &x2);
-          printf(" V");
-          printf("\nCurrent: %d%d", A, B);
-          printf("\nInput: %d%d", C, D);
-          printf("\nOutput: %d%d", x1, x2);
-          sleep(0.1);
+          printf(" >");
+          printf(" Current: %d%d", A, B);
+          printf("| Input: %d%d", C, D);
+          printf("| Output: %d%d", x1, x2);
+          sleep(2);
+          system("clear");
           }
         }
     }
